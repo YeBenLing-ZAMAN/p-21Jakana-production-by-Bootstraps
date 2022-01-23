@@ -1,0 +1,20 @@
+
+
+.bannar-bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./image/banarphoto.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    
+}
+
+.bannar{
+    width: 100vw;
+    height: 100vh;
+}
+
+.change-color{
+    color: 
+    #FECC02;
+}
