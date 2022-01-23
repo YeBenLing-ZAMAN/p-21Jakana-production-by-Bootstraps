@@ -18,3 +18,12 @@
     color: 
     #FECC02;
 }
+
+.footer-bg{
+    height: 40vh;
+    background: rgba(0, 0, 0, 0.856);
+}
+
+.footer-size{
+    height: 40vh;
+}
