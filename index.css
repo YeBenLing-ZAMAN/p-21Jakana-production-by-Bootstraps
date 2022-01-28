@@ -5,7 +5,8 @@
     height: 100vh;
     background-image: url(./image/banarphoto.png);
     background-repeat: no-repeat;
-    background-size: 100vw 100vh;
+    background-position: top center;
+    background-size:cover;
     
 }
 .bannar{
@@ -23,5 +24,5 @@
 }
 
 .footer-size{
-    height: 40vh;
+    height: 40h;
 }
